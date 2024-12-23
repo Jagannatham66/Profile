@@ -3,13 +3,7 @@
 Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for learning new technologies and solving complex problems. Here's a little bit about me:
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technologies or Skills]
-- 👯 I’m looking to collaborate on interesting open-source projects
-- 💬 Ask me about anything related to [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- ⚡ Fun fact: [A Fun Fact About You]
+Loading...........................................
 
 ## 🛠️ Technologies & Tools
 
